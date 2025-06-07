@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Pet_O_Tel.Server</RootNamespace>
+    <SpaRoot>..\pet-o-tel.client</SpaRoot>
+    <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
+    <SpaProxyServerUrl>https://localhost:51726</SpaProxyServerUrl>
+    <UserSecretsId>620f352c-26dc-4276-ba0d-5da02bd9e1ac</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.69.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaProxy">
+      <Version>8.*-*</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+	<PackageReference Include="AspNet.Security.OAuth.GitHub" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\pet-o-tel.client\pet-o-tel.client.esproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+
+	<Target Name="BuildFrontend" AfterTargets="Publish">
+		<Exec Command="npm install" WorkingDirectory="$(SpaRoot)" />
+		<Exec Command="npm run build" WorkingDirectory="$(SpaRoot)" />
+
+		<ItemGroup>
+			<DistFiles Include="$(SpaRoot)\dist\**\*" />
+		</ItemGroup>
+		<Copy SourceFiles="@(DistFiles)" DestinationFolder="$(PublishDir)wwwroot\%(RecursiveDir)" />
+	</Target>
+
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pet-O-Tel.Server.props" />
+</Project>

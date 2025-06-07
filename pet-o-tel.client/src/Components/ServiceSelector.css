@@ -1,0 +1,61 @@
+.service-selector {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin: 0 0 0 0;
+}
+
+.serviceContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 12px;
+    color: #ccc;
+    width: 80px;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.service-box {
+    position: relative;
+    background-color: #2B2A33;
+    border-radius: 12px;
+    cursor: pointer;
+    width: 3rem;
+    height: 3rem;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+    .service-box:hover {
+        transform: scale(1.05);
+    }
+
+    .service-box img {
+        height:100%;
+        width: auto;
+    }
+
+    .service-box.selected {
+        background-color: #CA9A5A;
+    }
+
+    .service-box.selected i{
+        color: #2B2A33;
+    }
+
+.checkmark {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    background: #fff;
+    color: #ff4473;
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 0.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

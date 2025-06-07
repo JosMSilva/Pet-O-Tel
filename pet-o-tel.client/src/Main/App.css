@@ -1,0 +1,16 @@
+﻿
+/**************************** Main Window ****************************/
+
+:root {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.app {
+    width: 100vw;
+    margin: auto;
+}
+html {
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,132 @@
+
+
+/**************************** Base Page ****************************/
+.resultsPage {
+    padding: 30px 8vw 40px;
+    background-image: url(../../public/Images/Paws.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    width: calc(100vw);
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    font-family: "Quicksand", sans-serif;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+
+/**************************** Logo ****************************/
+.searchLogo {
+    position: absolute;
+    top: 0;
+    left: 40px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 200px;
+    font-family: inherit;
+    font-weight: 600;
+    color: #f8f8f8;
+    text-decoration: none;
+    font-family: "Quicksand", sans-serif;
+}
+
+    .searchLogo span {
+        color: #555;
+        font-family: inherit;
+        font-weight: 900;
+    }
+
+    .searchLogo:hover {
+        text-decoration: none;
+        color: #f8f8f8;
+    }
+
+/**************************** Filter Tab ****************************/
+.filterTab {
+    background-color: #fdfdfd;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+    max-width: 250px;
+    margin-right: 20px;
+}
+
+    .filterTab h3 {
+        color: #2e2e2e;
+        font-size: 1.3rem;
+        font-weight: 600;
+        margin-bottom: 12px;
+        margin-top: 0;
+        font-family: "Quicksand", sans-serif;
+    }
+
+    .filterTab h4 {
+        margin-top: 10px;
+        margin-bottom: 8px;
+        font-size: 1.1rem;
+        font-weight:400;
+        color: #444;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 4px;
+        font-family: "Raleway", sans-serif;
+    }
+
+.serviceFilters {
+    display: flex;
+    flex-wrap:wrap;
+    gap: 5px;
+    justify-content: center;
+}
+
+.filterDivider {
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.filterChip {
+    padding: 6px 10px;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    height: 36px;
+    width:100%;
+    background-color: #2a2a2a;
+}
+
+    .filterChip img {
+        width: 18px;
+        height: 18px;
+    }
+
+    .filterChip.active {
+        background-color: #DAAA6A;
+        color: #fff;
+    }
+
+    .filterChip:hover {
+        background-color: #7a7a7a;
+        transform: translateY(-1px);
+    }
+
+.resultsGrid {
+    width: 800px;
+    height: calc(100vh - 60px - 2rem);
+    border-radius: 16px;
+    overflow: scroll;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.noResults {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: 50px;
+}

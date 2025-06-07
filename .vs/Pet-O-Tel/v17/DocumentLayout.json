@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\mainpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\mainpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\myaccount.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\myaccount.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\myaccount.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\myaccount.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\servicepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\servicepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\servicepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\servicepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\searchresult.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\searchresult.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\components\\resultcard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\components\\resultcard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\searchresult.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\searchresult.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\pages\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\pages\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\main\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\main\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\components\\serviceselector.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\components\\serviceselector.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\models\\pethotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\models\\pethotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\components\\loginmodal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\components\\loginmodal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\components\\loginmodal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\components\\loginmodal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\components\\resultcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\components\\resultcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\src\\components\\serviceselector.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\src\\components\\serviceselector.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1EDC908-5D12-7411-FE1C-75358CB0BD98}|pet-o-tel.client\\pet-o-tel.client.esproj|solutionrelative:pet-o-tel.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|c:\\users\\jos\u00E9 silva\\documents\\as\\pet-o-tel\\pet-o-tel\\pet-o-tel.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41BB91DD-13BD-49B8-9718-2CF348035F94}|Pet-O-Tel.Server\\Pet-O-Tel.Server.csproj|solutionrelative:pet-o-tel.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicePage.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\ServicePage.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\ServicePage.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\ServicePage.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\ServicePage.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-05T01:18:54.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicePage.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\ServicePage.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\ServicePage.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\ServicePage.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\ServicePage.css",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAwOUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-05T01:18:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyAccount.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MyAccount.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\MyAccount.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MyAccount.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\MyAccount.css",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAAwGwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-30T21:14:07.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyAccount.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MyAccount.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\MyAccount.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MyAccount.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\MyAccount.jsx",
+              "ViewState": "AgIAADIBAAAAAAAAAAAowDgBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-30T21:13:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAqwD8BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:11:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\Users.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:51:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\Booking.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:50:39.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PetHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\PetHotel.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Models\\PetHotel.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\PetHotel.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Models\\PetHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:39:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModal.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\LoginModal.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Components\\LoginModal.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\LoginModal.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Components\\LoginModal.css",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAwPQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T13:28:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginModal.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\LoginModal.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Components\\LoginModal.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\LoginModal.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Components\\LoginModal.jsx",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-29T13:27:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResultCard.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ResultCard.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Components\\ResultCard.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ResultCard.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Components\\ResultCard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T03:29:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchResult.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\SearchResult.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\SearchResult.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\SearchResult.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\SearchResult.css",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T03:28:19.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchResult.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\SearchResult.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\SearchResult.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\SearchResult.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\SearchResult.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-29T02:31:08.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultCard.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ResultCard.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Components\\ResultCard.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ResultCard.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Components\\ResultCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-29T03:27:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:55:43.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\ServiceType.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Models\\ServiceType.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\ServiceType.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Models\\ServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:48:54.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Models\\Service.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Models\\Service.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:48:48.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:13:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MainPage.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\MainPage.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MainPage.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\MainPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-27T12:40:12.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MainPage.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Pages\\MainPage.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Pages\\MainPage.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Pages\\MainPage.jsx",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwLAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-27T12:37:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\appsettings.json",
+              "RelativeToolTip": "Pet-O-Tel.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T10:40:04.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Main\\App.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Main\\App.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Main\\App.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Main\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-22T16:56:09.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\index.html",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\index.html",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\index.html",
+              "RelativeToolTip": "pet-o-tel.client\\index.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-26T16:07:41.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceSelector.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ServiceSelector.css",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Components\\ServiceSelector.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ServiceSelector.css",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Components\\ServiceSelector.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-26T15:13:12.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceSelector.jsx",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ServiceSelector.jsx",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\src\\Components\\ServiceSelector.jsx",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\src\\Components\\ServiceSelector.jsx",
+              "RelativeToolTip": "pet-o-tel.client\\src\\Components\\ServiceSelector.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-26T15:12:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\package.json",
+              "RelativeDocumentMoniker": "pet-o-tel.client\\package.json",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\package.json",
+              "RelativeToolTip": "pet-o-tel.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:43:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Pet-O-Tel.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\Pet-O-Tel.Server\\Program.cs",
+              "RelativeToolTip": "Pet-O-Tel.Server\\Program.cs",
+              "ViewState": "AgIAABYAAAAAMzMzMzMLwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:41:09.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "9gKsMVbgjo0TDV5VfUCC+qKRvukc67sCYPqZaGsHzzs=",
+  "Source": "Pet-O-Tel.Server",
+  "BasePath": "_content/Pet-O-Tel.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\José Silva\\Documents\\AS\\Pet-O-Tel\\Pet-O-Tel\\pet-o-tel.client\\pet-o-tel.client.esproj",
+      "Version": 2,
+      "Source": "pet-o-tel.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

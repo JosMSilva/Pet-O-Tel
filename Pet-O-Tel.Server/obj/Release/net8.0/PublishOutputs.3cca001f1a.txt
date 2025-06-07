@@ -1,0 +1,12 @@
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Pet-O-Tel.Server.exe
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\appsettings.json
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Pet-O-Tel.Server.dll
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Pet-O-Tel.Server.deps.json
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Pet-O-Tel.Server.runtimeconfig.json
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Pet-O-Tel.Server.pdb
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\José Silva\Documents\AS\Pet-O-Tel\Pet-O-Tel\Pet-O-Tel.Server\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

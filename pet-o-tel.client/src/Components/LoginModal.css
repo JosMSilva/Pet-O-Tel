@@ -1,0 +1,290 @@
+
+/**************************** Modal Main Container ****************************/
+
+.modalMain {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modalContent {
+    background: #CA9A5A;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 320px;
+    height: 400px;
+    text-align: center;
+    position: relative;
+    font-family: "Raleway", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/**************************** Modal Header ****************************/
+
+.modalHeader {
+    display: flex;
+    position: absolute;
+    top: 1rem;
+    left: 0.5rem;
+    right: 0.5rem;
+    justify-content: space-between;
+    font-family: "Quicksand", sans-serif;
+}
+
+    .modalHeader h3{
+        margin: 0 0 0 0;
+}
+
+    .modalHeader button {
+        height: 30px;
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        border-radius: 30px;
+        background-color: transparent;
+    }
+
+        .modalHeader button i {
+            font-size: 1.5rem;
+            font-weight: 300;
+            color: #f8f8f8;
+        }
+/**************************** Social Buttons ****************************/
+
+.socialButtons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.social {
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    cursor: pointer;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .social.github {
+        background-color: #333;
+        z-index: 1002;
+    }
+
+    .social.google {
+        background-color: #db4437;
+    }
+
+    .social.facebook {
+        background-color: #3b5998;
+        z-index: 1002;
+    }
+
+.google-login-wrapper{
+    opacity: 0;
+    position:absolute;
+    background-color: transparent;
+}
+
+.googleHider1{
+    height:60px;
+    width:90px;
+    position: absolute;
+    top:70px;
+    left: 80px;
+    z-index: 1001;
+}
+
+.googleHider2 {
+    height: 60px;
+    width: 90px;
+    position: absolute;
+    top: 70px;
+    right: 80px;
+    z-index: 1001;
+}
+
+/**************************** Section Divider ****************************/
+.divider {
+    position: relative;
+    margin: 1.5rem 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 1.5rem;
+}
+
+    .divider::before,
+    .divider::after {
+        content: '';
+        height: 1px;
+        background: #f8f8f8;
+        flex: 1;
+    }
+
+    .divider::before {
+        margin-right: 10px;
+    }
+
+    .divider::after {
+        margin-left: 10px;
+    }
+
+    .divider span {
+        background: #CA9A5A;
+        color: #fff;
+        padding: 0 10px;
+        font-size: 0.9rem;
+        font-weight: 500;
+        font-family: "Quicksand", sans-serif;
+        white-space: nowrap;
+    }
+
+/**************************** Login Form ****************************/
+
+.loginForm input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #b07f42;
+    border-radius: 5px;
+    background-color: #f8f1e4;
+    color: #333;
+    font-family: "Raleway", sans-serif;
+}
+
+    .loginForm input:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+.passwordWrapper {
+    position: relative;
+    width: 100%;
+}
+
+    .passwordWrapper input {
+        width: calc(100% - 50px);
+        padding: 10px;
+        padding-right: 40px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .passwordWrapper i {
+        position: absolute;
+        top: 40%;
+        right: 10px;
+        transform: translateY(-50%);
+        color: #555;
+        font-size: 1.1rem;
+        cursor: pointer;
+        z-index: 2;
+        background: transparent;
+        padding: 5px;
+    }
+
+.loginBtn {
+    width: 100%;
+    padding: 10px;
+    background-color: #5B3921;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .loginBtn:hover {
+        background-color: #3e2715;
+    }
+
+.signupLink {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #f8f8f8;
+    font-family: "Quicksand", sans-serif;
+}
+
+.linkButton {
+    background: none;
+    border: none;
+    color: #ffe8c7;
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 0;
+    font: inherit;
+}
+
+/**************************** Error Handling ****************************/
+
+.errorMessage {
+    background-color: #8b1e1e;
+    color: #fff6f6;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    font-family: "Quicksand", sans-serif;
+    margin-bottom: 10px;
+    width: calc(100% - 20px);
+    text-align: left;
+}
+
+/**************************** Register Page  ****************************/
+
+.passwordStrengthBar {
+    height: 6px;
+    width: 99%;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    margin-left:0.5%;
+    background-color: #ddd;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.strength-indicator {
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+    .strength-indicator.weak {
+        width: 33%;
+        background-color: #ff4d4f;
+    }
+
+    .strength-indicator.medium {
+        width: 66%;
+        background-color: #ffa940;
+    }
+
+    .strength-indicator.strong {
+        width: 100%;
+        background-color: #73d13d;
+    }
+
+
+
+
+

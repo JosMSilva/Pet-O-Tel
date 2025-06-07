@@ -1,0 +1,66 @@
+/* Dropdown overlay container (not full screen) */
+.sideNavOverlay {
+    position: absolute;
+    top: 40px;
+    right: 0;
+    margin-top: 0.5rem;
+    z-index: 1000;
+    width: 250px; /* wider */
+}
+
+/* Dropdown box */
+.sideNav {
+    background: #CA9A5A;
+    border-radius: 10px;
+    padding: 1rem 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: "Raleway", sans-serif;
+    font-size: 1rem;
+    border: 2px solid #B07F42; /* goldish border */
+}
+
+
+.closeBtn {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    line-height: 1;
+}
+
+/* List styling */
+.sideNav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sideNav li {
+    padding: 0.75rem 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* subtle separator */
+}
+
+    .sideNav li:last-child {
+        border-bottom: none; /* no border on last item */
+    }
+
+    .sideNav li button {
+        background: none;
+        border: none;
+        color: white;
+        width: 100%;
+        text-align: left;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: "Raleway", sans-serif;
+        padding: 0; /* reset default */
+    }
+
+        .sideNav li button:hover {
+            background-color: #5B3921;
+            border-radius: 5px;
+        }
